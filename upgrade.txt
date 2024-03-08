@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>{$mybb->settings['bbname']} - Upgrade</title>
+{$headerinclude}
+</head>
+<body>
+{$header}
+<div class="plans-container">
+			<div class="plans-row">
+				<div class="plans-row-header">
+					<div class="plans-row-header-box">
+						<div class="plans-row-header-box-title" style="background-color:#2db55d !important">
+							<div class="plans-row-header-box-price">$10</div>
+							VIP
+						</div>
+						<div class="plans-row-period"><span class="row-left">PERIOD</span><span style="float: right;"><b></b> <em>3 Months</em></span></div>
+<div class="plans-row-username"><span style="color: #2db55d;font-size:20px;"><strong>{$mybb->user['username']}</strong></span></div>
+<div class="plans-row-usergroup-img-container"><img src="https://i.imgur.com/E0kyJ0Y.png" width="136" height="42"></div>
+<div class="plans-row-list-text">ATTAINABLE PERKS</div>
+<div class="plans-list-item"><span class="row-left">PM Space</span><span style="float: right;">2.000</span></div>
+<div class="plans-list-item"><span class="row-left">Award</span><span style="float: right;"><a href="https://leakzone.net/awards.php?view=10" title="VIP"><img src="https://i.imgur.com/X98qS5c.png" alt="VIP" style="height: 26px; width: 26px; padding:3px; border: 2px solid #3fce64;border-radius:15%;background:#333; margin-top:-4px;"></a></span></div>
+<div class="plans-list-item"><span class="row-left">Can bypass post to unlock</span><span style="float: right; color: #a83535;"><li class="fa fa-check upgrade-vip"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can access premium-only content</span><span style="float: right; color: #a83535;"><li class="fa fa-check upgrade-vip"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can give/take reputation (+2/-2)</span><span style="float: right;"><li class="fa fa-check upgrade-vip"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change postbit background</span><span style="float: right;"><li class="fa fa-check upgrade-vip"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change usertitle</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change username</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can close own threads</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change color of usertitle</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can delete own threads</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div style="background-color: #242424; padding: 20px;text-align: center;display:block">
+	
+		
+	<button style="background:#2f2f2f;width:100%;max-width:200px;margin-top:-20px;">COINPAYMENT</button>
+				
+					
+</div>
+</div>
+</div>
+</div>
+
+
+			<div class="plans-row">
+				<div class="plans-row-header">
+					<div class="plans-row-header-box">
+						<div class="plans-row-header-box-title" style="background-color: #6046aa !important;">
+							<div class="plans-row-header-box-price">$25</div>
+							SELECT
+						</div>
+						<div class="plans-row-period"><span class="row-left">PERIOD</span><span style="float: right;"><b></b> <em>LIFETIME</em></span></div>
+<div class="plans-row-username"><span style="color: #6050DC; text-shadow: 0px 0px 4px #6050DC;font-size:20px;">{$mybb->user['username']}</span></div>
+<div class="plans-row-usergroup-img-container"><img src="https://cdn.discordapp.com/attachments/603603330609971201/605205665740488714/s6a65s.gif" width="136" height="42"></div>
+<div class="plans-row-list-text">ATTAINABLE PERKS</div>
+<div class="plans-list-item"><span class="row-left">PM Space</span><span style="float: right;">5.000</span></div>
+<div class="plans-list-item"><span class="row-left">Award</span><span style="float: right;"><a href="https://leakzone.net/awards.php?view=45" title="Select"><img src="https://i.imgur.com/pO6Y1lF.png" alt="Select" style="height: 26px; width: 26px; padding:3px; border: 2px solid #6046aa;border-radius:15%;background:#333; margin-top:-4px;"></a></span></div>
+<div class="plans-list-item"><span class="row-left">Can bypass post to unlock</span><span style="float: right; color: #a83535;"><li class="fa fa-check  upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can access premium-only content</span><span style="float: right; color: #a83535;"><li class="fa fa-check  upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can give/take reputation (+2/-2)</span><span style="float: right;"><li class="fa fa-check upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change postbit background</span><span style="float: right;"><li class="fa fa-check upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change usertitle</span><span style="float: right;"><li class="fa fa-check upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change username</span><span style="float: right;"><li class="fa fa-check upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can close own threads</span><span style="float: right;"><li class="fa fa-check upgrade-select"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change color of usertitle</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can delete own threads</span><span style="float: right;"><li class="fa fa-times upgrade-red"></li></span></div>
+<div style="background-color: #242424; padding: 20px;text-align: center;display:block">
+	
+	
+	<button style="background:#2f2f2f;width:100%;max-width:200px;margin-top:-20px;">COINPAYMENT</button>
+			
+		
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="plans-row">
+				<div class="plans-row-header">
+					<div class="plans-row-header-box">
+						<div class="plans-row-header-box-title" style="background-color:#1683f8 !important">
+							<div class="plans-row-header-box-price">$35</div>
+							SUPERIOR
+						</div>
+						<div class="plans-row-period"><span class="row-left">PERIOD</span><span style="float: right;"><b></b> <em>LIFETIME</em></span></div>
+<div class="plans-row-username"><span style="color: #00a2ff; text-shadow: 0px 0px 4px #00a2ff; background: url(https://cdn.discordapp.com/attachments/586565435827159050/595552527437529102/glitter.gif);font-size:20px;">{$mybb->user['username']}</span></div>
+<div class="plans-row-usergroup-img-container"><img src="https://cdn.discordapp.com/attachments/603603330609971201/605383260372992010/6565.gif" width="136" height="42"></div>
+<div class="plans-row-list-text">ATTAINABLE PERKS</div>
+<div class="plans-list-item"><span class="row-left">PM Space</span><span style="float: right;">10.000</span></div>
+<div class="plans-list-item"><span class="row-left">Award</span><span style="float: right;"><a href="https://leakzone.net/awards.php?view=5" title="Upgraded"><img src="https://leakzone.net/uploads/awards/vip.png" alt="Superior" style="height: 26px; width: 26px; padding:3px; border: 2px solid #2a89f8;border-radius:15%;background:#333; margin-top:-4px;"></a></span></div>
+<div class="plans-list-item"><span class="row-left">Can bypass post to unlock</span><span style="float: right; color: #a83535;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can access premium-only content</span><span style="float: right; color: #a83535;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can give/take reputation (+3/-3)</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change postbit background</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change usertitle</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change username</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can close own threads</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can change color of usertitle</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div class="plans-list-item"><span class="row-left">Can delete own threads</span><span style="float: right;"><li class="fa fa-check upgrade-superior"></li></span></div>
+<div style="background-color: #242424; padding: 20px;text-align: center;display:block">
+						
+	
+<button style="background:#2f2f2f;width:100%;max-width:200px;margin-top:-20px;">COINPAYMENT</button>
+			
+	
+</div>
+</div>
+</div>
+</div>
+
+</div>
+{$footer}
+</body>
+</html>
